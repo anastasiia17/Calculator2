@@ -1,0 +1,11 @@
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\bin\Debug\NCalc.dll
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CopyComplete
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\N\RiderProjects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
