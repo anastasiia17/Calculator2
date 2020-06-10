@@ -43,6 +43,7 @@
             this.button12 = new System.Windows.Forms.Button();
             this.button13 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -63,7 +64,7 @@
             this.textBox_Res.Multiline = true;
             this.textBox_Res.Name = "textBox_Res";
             this.textBox_Res.ReadOnly = true;
-            this.textBox_Res.Size = new System.Drawing.Size(405, 60);
+            this.textBox_Res.Size = new System.Drawing.Size(405, 40);
             this.textBox_Res.TabIndex = 1;
             // 
             // button2
@@ -198,6 +199,15 @@
             this.button13.UseVisualStyleBackColor = true;
             this.button13.Click += new System.EventHandler(this.button13_Click);
             // 
+            // label1
+            // 
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label1.Location = new System.Drawing.Point(13, 10);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(405, 33);
+            this.label1.TabIndex = 6;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -216,6 +226,7 @@
             this.Controls.Add(this.button11);
             this.Controls.Add(this.button12);
             this.Controls.Add(this.button13);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox_Res);
             
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
@@ -242,5 +253,6 @@
         private System.Windows.Forms.Button button11;
         private System.Windows.Forms.Button button12;
         private System.Windows.Forms.Button button13;
+        private System.Windows.Forms.Label label1;
     }
 }

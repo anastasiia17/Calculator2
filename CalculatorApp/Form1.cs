@@ -66,6 +66,8 @@ namespace CalculatorApp
                 var fract = (int) ((val - integ) * 100000);
                 textBox_Res.Text = ToGexInt(integ);
                 textBox_Res.Text += "." + ToBinFrac(fract, fract.ToString().Length);
+                label1.Text = "" + textBox_Res.Text;
+                textBox_Res.Text = "";
             }
             catch
             {
